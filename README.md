@@ -1,6 +1,6 @@
 # LP‑Patins 🛼
 
-**Landing Page de Patins** desenvolvida como parte dos desafios da Rocketseat, com foco em HTML e CSS puro. O projeto explora animações, transições, responsividade e o uso de funções CSS para criar uma experiência visual fluida e agradável.
+**Landing Page de Patins** desenvolvida como parte das aulas da Rocketseat, com foco em HTML e CSS puro. O projeto explora animações, transições, responsividade e o uso de funções CSS para criar uma experiência visual fluida e agradável.
 
 🔗 **Deploy:** [Acesse aqui](https://leyvison-menezes.github.io/LP-Patins/)  
 📂 **Repositório:** [GitHub - LP-Patins](https://github.com/Leyvison-Menezes/LP-Patins)
